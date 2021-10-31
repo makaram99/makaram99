@@ -1,5 +1,6 @@
 <img align="center" src="https://github.com/makaram99/makaram99/blob/master/image.png" >
 
+## About me
 Hi, I'm Mahmoud Karam, a passionate self-taught Embedded SW Engineer and a freelance software engineer from Egypt. my passion for software lies with dreaming up ideas and making them come true. I take great care in the architecture, and code quality.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
@@ -60,11 +61,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ## 🛠️ languages and tools
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code> <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code> <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code> <code><img height="50" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"></code> <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/2367px-Notepad%2B%2B_Logo.svg.png"></code> <code><img height="50" src="https://www.devopsschool.com/trainer/assets/images/makefiles-logo.png"></code> <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> </code>
 
-## 📈 my github stats <br>
+## 📈 My Contributions <br>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=makaram99)
 
-## Where to find me
+## Contact me
 <p><a href="https://github.com/makaram99" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/makaram99" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
