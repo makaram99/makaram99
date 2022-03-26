@@ -11,23 +11,6 @@ Hi, I'm Mahmoud Karam, a passionate self-taught Embedded SW Engineer and a freel
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-
-  <img align="right" alt="GIF" src="https://github.com/makaram99/makaram99/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 any freelance work? do reach, [![Mail](https://img.shields.io/badge/ma.karam272@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:ma.karam272@gmail.com)
-- 💬 ask me about anything, i am happy to help
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ## 🔓 Open source projects
 <table>
   <thead align="center">
@@ -72,7 +55,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 </table>
   
 ## 🛠️ languages and tools
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code> <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code> <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code> <code><img height="50" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"></code> <code><img height="50" src="https://img-blog.csdnimg.cn/20190918211346632.jpg"> </code> <code><img height="50" src="https://repository-images.githubusercontent.com/187005638/4d8c0b80-7bed-11e9-9338-fb7021245dd1"> </code> </code> <code><img height="50" src="https://edasim.com/wp-content/uploads/2020/06/edasim-integrating-ideas-logo-proteus.png"> </code> <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/2367px-Notepad%2B%2B_Logo.svg.png"></code> <code><img height="50" src="https://www.devopsschool.com/trainer/assets/images/makefiles-logo.png"></code> <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> </code> <code><img height="50" src="https://www.doxygen.nl/images/doxygen.png"> </code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code> <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code> <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code> <code><img height="50" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"></code> <code><img height="50" src="https://img-blog.csdnimg.cn/20190918211346632.jpg"> </code> <code><img height="50" src="https://repository-images.githubusercontent.com/187005638/4d8c0b80-7bed-11e9-9338-fb7021245dd1"> </code> </code> <code><img height="50" src="https://www.labcenter.com/images/logo.png"> </code> <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/2367px-Notepad%2B%2B_Logo.svg.png"></code> <code><img height="50" src="https://www.devopsschool.com/trainer/assets/images/makefiles-logo.png"></code> <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> </code> <code><img height="50" src="https://www.doxygen.nl/images/doxygen.png"> </code>
 
 ## 📈 My Contributions <br>
 
@@ -83,6 +66,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ## Contact me
 <p><a href="https://github.com/makaram99" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/makaram99" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> </a> <a href="mailto:ma.karam272@gmail.com" target="_blank"><img alt="Gmail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/640px-Gmail_icon_%282020%29.svg.png" height="30" /></a>
 </p>
+
+- 💼 any freelance work? do reach, [![Mail](https://img.shields.io/badge/ma.karam272@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:ma.karam272@gmail.com)
+- 💬 ask me about anything, i am happy to help
 
 <div align="center">
 
