@@ -45,6 +45,13 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/CLR-2021/agv-sw?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/makaram99/8051-projects"><b>8051 MCU Projects</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/makaram99/8051-projects?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/makaram99/8051-projects?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/makaram99/8051-projects?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/makaram99/8051-projects?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/makaram99/solidworks"><b>Solidworks</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/makaram99/solidworks?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/makaram99/solidworks?style=flat-square&labelColor=343b41"/></td>
