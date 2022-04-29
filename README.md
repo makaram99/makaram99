@@ -81,7 +81,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/makaram99/stm32f103c8t6-drivers?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/makaram99/atmega128-drivers"><b>ARM</b></a></td>
+      <td><a href="https://github.com/makaram99/atmega128-drivers"><b>AVR</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/makaram99/atmega128-drivers?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/makaram99/atmega128-drivers?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/makaram99/atmega128-drivers?style=flat-square&labelColor=343b41"/></td>
