@@ -38,6 +38,13 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/makaram99/cute-os?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/makaram99/smart-home"><b>Smart Home (FreeRTOS)</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/makaram99/smart-home?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/makaram99/smart-home?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/makaram99/smart-home?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/makaram99/smart-home?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/makaram99/tank-level-control"><b>Tank Level Control</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/makaram99/tank-level-control?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/makaram99/tank-level-control?style=flat-square&labelColor=343b41"/></td>
